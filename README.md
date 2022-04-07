@@ -30,14 +30,4 @@ With Jupyter's gmaps plugin, user's weather preference inputs and requests to th
   Destinations map 
 </p>
 
-### Create a travel itinerary map
-Using [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/overview) the app generates a travel route between 4 cities selected by the user.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/68669675/92261556-36833280-ee9f-11ea-8c28-820e21c02535.png">
-  Travel map 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/68669675/92261560-3a16b980-ee9f-11ea-9094-a1a9e9080137.png">
-  Travel map with markers 
-</p>
